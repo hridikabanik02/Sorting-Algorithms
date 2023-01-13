@@ -3,9 +3,6 @@
 href="mailto:hridika.banik@ucalgary.ca">firstname.lastname@ucalgary.ca</a>
 @version 1.3
 @since 1.0
-UCID: 30123716
-Tutorial number: T05
-TA Name: Roghayeh Heidari
 */
 
 import java.io.*;
